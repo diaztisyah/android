@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_media_player_service"
+        android:icon="@drawable/ic_play_circle_outline_black_24dp"
+        android:title="Media Player Service" />
+</menu>
